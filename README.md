@@ -21,7 +21,7 @@
 	- 분류기 모델 : SVM (Support Vector Machine)
 	
 	
-	- 정확도 : 약 68 %
+	- 정확도 : 약 68%
 	```
 	
 ###### [참고] [Korean Hate Speech](https://www.kaggle.com/competitions/korean-hate-speech-detection/data)
