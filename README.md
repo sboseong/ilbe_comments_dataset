@@ -12,10 +12,10 @@
 &nbsp; 
 
 	```
-	- 훈련 집합 : 구축된 데이터 셋 중 임의로 선택한 10만개의 문장 (None 5만개, Hate 5만개)
+	- 훈련 집합 (train set) : 구축된 데이터 셋 중 임의로 선택한 10만개의 문장 (None 5만개, Hate 5만개)
 	 
 
-	- 테스트 집합 : Korean Hate Speech이라는 Kaggle Competition의 데이터 5679개의 문장
+	- 테스트 집합 (test set) : Korean Hate Speech이라는 Kaggle Competition의 데이터 5679개의 문장
 			
 
 	- 분류기 모델 : SVM (Support Vector Machine)
@@ -39,4 +39,7 @@
 	
 	
 	- hate_label.txt : ilbe 댓글에 대한 label된 파일
+	
+	
+	- data/train.dat, data/test.dat : SVM 분류기 실험에 사용된 train set과 test set
 	```
