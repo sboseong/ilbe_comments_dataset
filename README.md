@@ -18,7 +18,7 @@
 ```
 
 &nbsp; 
- * 데이터 셋 구축 방법 : ```Dataset_building.py``` 파일 참고  
+ * 데이터 셋 구축 방법 : ```Dataset_building.py``` 파일 및 [논문](https://github.com/sboseong/ilbe_comments_dataset/blob/main/%EC%9B%8C%EB%93%9C%20%EC%9E%84%EB%B2%A0%EB%94%A9%20%EA%B8%B0%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%90%EC%98%A4%ED%91%9C%ED%98%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%20%EC%9E%90%EB%8F%99%20%EA%B5%AC%EC%B6%95.pdf) 참고  
 
 &nbsp; 
 
