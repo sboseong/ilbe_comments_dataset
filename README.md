@@ -3,6 +3,16 @@
 
 &nbsp; 
  * 원시 데이터 : 일베(일간베스트 저장소) 댓글  
+ 
+ ```
+	- 훈련 집합 (train set) : 구축된 데이터 셋 중 약 34만개의 문장 (None 22만개, Hate 12만개)
+	 
+
+	- 테스트 집합 (test set) : 구축된 데이터 셋 중 약 38000개의 문장 (None 25000개, Hate 13000만개)
+	
+	
+	- 정확도 : 약 75%
+```
 
 &nbsp; 
  * 데이터 셋 구축 방법 : ```Dataset_building.py``` 파일 참고  
@@ -10,21 +20,8 @@
 &nbsp; 
  * 훈련 및 테스트 : 
 &nbsp; 
-
-	```
-	- 훈련 집합 (train set) : 구축된 데이터 셋 중 임의로 선택한 10만개의 문장 (None 5만개, Hate 5만개)
-	 
-
-	- 테스트 집합 (test set) : Korean Hate Speech이라는 Kaggle Competition의 데이터 5679개의 문장
-			
-
-	- 분류기 모델 : SVM (Support Vector Machine)
 	
-	
-	- 정확도 : 약 68%
-	```
-	
-###### [참고] [Korean Hate Speech](https://www.kaggle.com/competitions/korean-hate-speech-detection/data)
+######
 
 &nbsp; 
  * 구성 파일:
